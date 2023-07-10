@@ -1,0 +1,13 @@
+D:\Train\C#\Lab05_Winform\Lab05_Winform\bin\Debug\Lab05_Winform.exe.config
+D:\Train\C#\Lab05_Winform\Lab05_Winform\bin\Debug\Lab05_Winform.exe
+D:\Train\C#\Lab05_Winform\Lab05_Winform\bin\Debug\Lab05_Winform.pdb
+D:\Train\C#\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.csproj.AssemblyReference.cache
+D:\Train\C#\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.csproj.SuggestedBindingRedirects.cache
+D:\Train\C#\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.Form1.resources
+D:\Train\C#\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.Properties.Resources.resources
+D:\Train\C#\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.csproj.GenerateResource.cache
+D:\Train\C#\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.csproj.CoreCompileInputs.cache
+D:\Train\C#\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.exe
+D:\Train\C#\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.pdb
+D:\Train\C#\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.frmNhap.resources
+D:\Train\C#\Lab05_Winform\Lab05_Winform\obj\Debug\Lab05_Winform.frmTracuu.resources
